@@ -4,7 +4,7 @@
 	.res_form_inner{
 		max-width: 555px;
 		margin: auto;
-		box-shadow: 0px 10px 30px 0px rgba(153, 153, 153, 0.1);
+		box-shadow: 0 10px 30px 0 rgba(153, 153, 153, 0.1);
 		padding: 75px 50px;
 		position: relative;
 		&:before{
@@ -33,11 +33,11 @@
 	.form-group{
 		input{
 			height: 40px;
-			border-radius: 0px;
+			border-radius: 0;
 			border: 1px solid #eeeeee;
 			outline: none;
 			box-shadow: none;
-			padding: 0px 15px;
+			padding: 0 15px;
 			font-size: 13px;
 			font-family: $rob;
 			font-weight: 300;
@@ -52,9 +52,9 @@
 		.res_select{
 			height: 40px;
 			border: 1px solid #eeeeee;
-			border-radius: 0px;
+			border-radius: 0;
 			width: 100%;
-			padding: 0px 15px;
+			padding: 0 15px;
 			line-height: 36px;
 			.current{
 				font-size: 13px;
@@ -106,7 +106,7 @@
             line-height: 24px;
             color: $rob;
             font-weight: bold;
-            margin-bottom: 0px;
+            margin-bottom: 0;
 			color: $dip;
             a{
                 color: $dip;
@@ -115,7 +115,7 @@
         p{
             font-size: 14px;
             line-height: 24px;
-            padding: 2px 0px;
+            padding: 2px 0;
         }
     }
 }
@@ -128,7 +128,7 @@
             color: #999;
             border: 1px solid #eeeeee;
             font-family: $rob;
-            border-radius: 0px;
+            border-radius: 0;
             padding-left: 20px;
             &:focus{
                 box-shadow: none;
