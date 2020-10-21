@@ -37,7 +37,7 @@
 	/* Home Banner Area css
 	============================================================================================ */
 	.home_banner_area {
-		min-height: 728px;
+		min-height: 730px;
 		margin-bottom: 120px;
 	}
 	.home_banner_area .banner_inner {
@@ -75,7 +75,7 @@
 		padding-left: 0px;
 	}
 	.home_banner_area.blog_banner .banner_inner{
-		min-height: 728px;
+		min-height: 730px;
 	}
 	.home_banner_area.blog_banner {
 		margin-bottom: 0px;
@@ -90,7 +90,7 @@
         border-radius: 0px;
         padding: 0px;
         cursor: pointer;
-        margin-top: 27px;
+        margin-top: 26px;
         margin-bottom: 23px;
     }
 	.header_area .navbar {
@@ -437,6 +437,6 @@
 		margin-bottom: 0px;
 	}
 	.isotope_fillter .gallery_filter li {
-		margin-right: 17px;
+		margin-right: 16px;
 	}
 }
