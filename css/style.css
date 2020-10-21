@@ -249,7 +249,7 @@ button:focus {
   border-bottom: none;
 }
 .header_area .navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link {
-  background: #766dff;
+  background: red;
   color: #fff;
 }
 @media (min-width: 992px) {
@@ -309,7 +309,7 @@ button:focus {
   margin-right: 0px;
 }
 .top_menu .header_social li:hover a {
-  color: #766dff;
+  color: red;
 }
 .top_menu .dn_btn {
   line-height: 42px;
@@ -322,7 +322,7 @@ button:focus {
   transition: all 300ms linear 0s;
 }
 .top_menu .dn_btn:hover {
-  color: #766dff;
+  color: red;
 }
 .top_menu .dn_btn:last-child {
   margin-right: 0px;
@@ -362,9 +362,9 @@ button:focus {
 .home_banner_area {
   position: relative;
   z-index: 1;
-  background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+  background-image: -moz-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -webkit-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -ms-linear-gradient(0deg, red 0%, red 100%);
   margin-bottom: 200px;
 }
 .home_banner_area .box_1620 {
@@ -453,9 +453,9 @@ button:focus {
   position: relative;
   z-index: 1;
   min-height: 350px;
-  background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+  background-image: -moz-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -webkit-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -ms-linear-gradient(0deg, red 0%, red 100%);
   margin-bottom: 120px;
 }
 .banner_area .box_1620 {
@@ -502,7 +502,7 @@ button:focus {
   display: none;
 }
 .banner_area .banner_inner .banner_content .page_link a:hover {
-  color: #766dff;
+  color: red;
 }
 
 /* End Home Banner Area css
@@ -540,7 +540,7 @@ button:focus {
   margin-bottom: 0px;
 }
 .l_blog_item:hover h4 {
-  color: #766dff;
+  color: red;
 }
 
 /* End Latest Blog Area css
@@ -586,7 +586,7 @@ button:focus {
   color: #222222;
 }
 .tags .tag_btn:before {
-  background: #766dff;
+  background: red;
 }
 .tags .tag_btn + .tag_btn {
   margin-left: 2px;
@@ -640,9 +640,9 @@ button:focus {
   height: 1px;
 }
 .categories_post:hover .categories_details {
-  background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+  background-image: -moz-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -webkit-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -ms-linear-gradient(0deg, red 0%, red 100%);
   opacity: 0.851;
 }
 
@@ -665,7 +665,7 @@ button:focus {
   color: #777777;
 }
 .blog_info .post_tag a.active {
-  color: #766dff;
+  color: red;
 }
 .blog_info .blog_meta li a {
   font: 300 14px/20px "Roboto", sans-serif;
@@ -683,7 +683,7 @@ button:focus {
   vertical-align: middle;
 }
 .blog_info .blog_meta li a:hover {
-  color: #766dff;
+  color: red;
 }
 
 .blog_post img {
@@ -701,7 +701,7 @@ button:focus {
   transition: all 0.3s linear;
 }
 .blog_details h2:hover {
-  color: #766dff;
+  color: red;
 }
 .blog_details p {
   margin-bottom: 26px;
@@ -725,7 +725,7 @@ button:focus {
 .blog_right_sidebar .widget_title {
   font-size: 18px;
   line-height: 25px;
-  background: #766dff;
+  background: red;
   text-align: center;
   color: #fff;
   padding: 8px 0px;
@@ -741,7 +741,7 @@ button:focus {
   padding-left: 20px;
   border-radius: 45px;
   z-index: 0;
-  background: #766dff;
+  background: red;
 }
 .blog_right_sidebar .search_widget .input-group .form-control.placeholder {
   color: #fff;
@@ -802,7 +802,7 @@ button:focus {
   margin-left: 20px;
 }
 .blog_right_sidebar .author_widget .social_icon a:hover {
-  color: #766dff;
+  color: red;
 }
 .blog_right_sidebar .popular_post_widget .post_item .media-body {
   justify-content: center;
@@ -817,7 +817,7 @@ button:focus {
   transition: all 0.3s linear;
 }
 .blog_right_sidebar .popular_post_widget .post_item .media-body h3:hover {
-  color: #766dff;
+  color: red;
 }
 .blog_right_sidebar .popular_post_widget .post_item .media-body p {
   font-size: 12px;
@@ -844,10 +844,10 @@ button:focus {
   padding-top: 15px;
 }
 .blog_right_sidebar .post_category_widget .cat-list li:hover {
-  border-color: #766dff;
+  border-color: red;
 }
 .blog_right_sidebar .post_category_widget .cat-list li:hover a {
-  color: #766dff;
+  color: red;
 }
 .blog_right_sidebar .newsletter_widget {
   text-align: center;
@@ -895,7 +895,7 @@ button:focus {
   box-shadow: none;
 }
 .blog_right_sidebar .newsletter_widget .bbtns {
-  background: #766dff;
+  background: red;
   color: #fff;
   font-size: 12px;
   line-height: 38px;
@@ -921,9 +921,9 @@ button:focus {
   font-size: 12px;
 }
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+  background-image: -moz-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -webkit-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -ms-linear-gradient(0deg, red 0%, red 100%);
   color: #fff;
 }
 .blog_right_sidebar .br {
@@ -950,7 +950,7 @@ button:focus {
 }
 
 .blog-pagination .page-item.active .page-link {
-  background-color: #766dff;
+  background-color: red;
   border-color: transparent;
   color: #fff;
 }
@@ -977,7 +977,7 @@ button:focus {
 .blog-pagination .page-link:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #766dff;
+  background-color: red;
   border-color: #eee;
 }
 
@@ -1158,7 +1158,7 @@ button:focus {
   transition: all 300ms linear 0s;
 }
 .comments-area .btn-reply:hover {
-  background-color: #766dff;
+  background-color: red;
   color: #fff;
 }
 
@@ -1348,7 +1348,7 @@ button:focus {
   top: 0;
   font-size: 20px;
   line-height: 24px;
-  color: #766dff;
+  color: red;
   font-weight: 600;
 }
 .contact_info .info_item h6 {
@@ -1437,7 +1437,7 @@ button:focus {
 .modal-message .modal-dialog .modal-content .modal-header h2 {
   display: block;
   text-align: center;
-  color: #766dff;
+  color: red;
   padding-bottom: 10px;
   font-family: "Roboto", sans-serif;
 }
@@ -1469,25 +1469,25 @@ button:focus {
 }
 .sample-text-area p b {
   font-weight: bold;
-  color: #766dff;
+  color: red;
 }
 .sample-text-area p i {
-  color: #766dff;
+  color: red;
   font-style: italic;
 }
 .sample-text-area p sup {
-  color: #766dff;
+  color: red;
   font-style: italic;
 }
 .sample-text-area p sub {
-  color: #766dff;
+  color: red;
   font-style: italic;
 }
 .sample-text-area p del {
-  color: #766dff;
+  color: red;
 }
 .sample-text-area p u {
-  color: #766dff;
+  color: red;
 }
 
 /*============== End Elements Area css ================*/
@@ -1526,7 +1526,7 @@ button:focus {
 }
 .button-group-area .disable {
   background: transparent;
-  color: #007bff;
+  color: red;
   cursor: not-allowed;
 }
 .button-group-area .disable:before {
@@ -1534,24 +1534,24 @@ button:focus {
 }
 
 .primary {
-  background: #52c5fd;
+  background: red;
 }
 .primary:before {
-  background: #2faae6;
+  background: red;
 }
 
 .success {
-  background: #4cd3e3;
+  background: red;
 }
 .success:before {
-  background: #2ebccd;
+  background: red;
 }
 
 .info {
-  background: #38a4ff;
+  background: red;
 }
 .info:before {
-  background: #298cdf;
+  background: red;
 }
 
 .warning {
@@ -1570,29 +1570,29 @@ button:focus {
 
 .primary-border {
   background: transparent;
-  border: 1px solid #52c5fd;
-  color: #52c5fd;
+  border: 1px solid red;
+  color: red;
 }
 .primary-border:before {
-  background: #52c5fd;
+  background: red;
 }
 
 .success-border {
   background: transparent;
-  border: 1px solid #4cd3e3;
-  color: #4cd3e3;
+  border: 1px solid red;
+  color: red;
 }
 .success-border:before {
-  background: #4cd3e3;
+  background: red;
 }
 
 .info-border {
   background: transparent;
-  border: 1px solid #38a4ff;
-  color: #38a4ff;
+  border: 1px solid red;
+  color: red;
 }
 .info-border:before {
-  background: #38a4ff;
+  background: red;
 }
 
 .warning-border {
@@ -1615,11 +1615,11 @@ button:focus {
 
 .link-border {
   background: transparent;
-  border: 1px solid #766dff;
-  color: #766dff;
+  border: 1px solid red;
+  color: red;
 }
 .link-border:before {
-  background: #766dff;
+  background: red;
 }
 
 .radius {
@@ -1925,49 +1925,49 @@ h6 {
 
 .genric-btn.success {
   color: #fff;
-  background: #4cd3e3;
+  background: red;
   border: 1px solid transparent;
 }
 
 .genric-btn.success:hover {
-  color: #4cd3e3;
-  border: 1px solid #4cd3e3;
+  color: red;
+  border: 1px solid red;
   background: #fff;
 }
 
 .genric-btn.success-border {
-  color: #4cd3e3;
-  border: 1px solid #4cd3e3;
+  color: red;
+  border: 1px solid red;
   background: #fff;
 }
 
 .genric-btn.success-border:hover {
   color: #fff;
-  background: #4cd3e3;
+  background: red;
   border: 1px solid transparent;
 }
 
 .genric-btn.info {
   color: #fff;
-  background: #38a4ff;
+  background: red;
   border: 1px solid transparent;
 }
 
 .genric-btn.info:hover {
-  color: #38a4ff;
-  border: 1px solid #38a4ff;
+  color: red;
+  border: 1px solid red;
   background: #fff;
 }
 
 .genric-btn.info-border {
-  color: #38a4ff;
-  border: 1px solid #38a4ff;
+  color: red;
+  border: 1px solid red;
   background: #fff;
 }
 
 .genric-btn.info-border:hover {
   color: #fff;
-  background: #38a4ff;
+  background: red;
   border: 1px solid transparent;
 }
 
@@ -2131,7 +2131,7 @@ h6 {
 }
 
 .progress-table .table-row .percentage .progress .progress-bar.color-1 {
-  background-color: #6382e6;
+  background-color: red;
 }
 
 .progress-table .table-row .percentage .progress .progress-bar.color-2 {
@@ -2151,11 +2151,11 @@ h6 {
 }
 
 .progress-table .table-row .percentage .progress .progress-bar.color-6 {
-  background-color: #6382e6;
+  background-color: red;
 }
 
 .progress-table .table-row .percentage .progress .progress-bar.color-7 {
-  background-color: #a367e7;
+  background-color: red;
 }
 
 .progress-table .table-row .percentage .progress .progress-bar.color-8 {
@@ -2526,7 +2526,7 @@ h6 {
 }
 
 .confirm-switch input:checked + label:before {
-  background: #4cd3e3;
+  background: red;
 }
 
 .primary-checkbox {
@@ -2911,12 +2911,7 @@ h6 {
 ============================================================================================ */
 .main_btn {
   display: inline-block;
-  background-image: linear-gradient(
-    to right,
-    #766dff 0%,
-    #86e8ff 48%,
-    #766dff 100%
-  );
+  background-image: linear-gradient(to right, red 0%, red 48%, red 100%);
   background-size: 200% auto;
   padding: 0px 40px;
   color: #fff;
@@ -2955,16 +2950,16 @@ h6 {
   transition: all 300ms linear 0s;
 }
 .main_btn2:hover {
-  background: #766dff;
+  background: red;
   color: #fff;
-  border-color: #766dff;
+  border-color: red;
   box-shadow: 0px 10px 20px 0px rgba(250, 51, 63, 0.25);
 }
 
 .submit_btn {
   width: auto;
   display: inline-block;
-  background: #766dff;
+  background: red;
   padding: 0px 50px;
   color: #fff;
   font-family: "Roboto", sans-serif;
@@ -2975,13 +2970,13 @@ h6 {
   outline: none !important;
   box-shadow: none !important;
   text-align: center;
-  border: 1px solid #766dff;
+  border: 1px solid red;
   cursor: pointer;
   transition: all 300ms linear 0s;
 }
 .submit_btn:hover {
   background: transparent;
-  color: #766dff;
+  color: red;
 }
 
 .white_bg_btn {
@@ -3001,9 +2996,9 @@ h6 {
   transition: all 300ms linear 0s;
 }
 .white_bg_btn:hover {
-  background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+  background-image: -moz-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -webkit-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -ms-linear-gradient(0deg, red 0%, red 100%);
   color: #fff;
   border: none;
 }
@@ -3012,7 +3007,7 @@ h6 {
   padding: 0px 44px;
   line-height: 50px;
   background: #222222;
-  color: #766dff;
+  color: red;
   display: inline-block;
   border-radius: 5px;
   font-size: 13px;
@@ -3021,7 +3016,7 @@ h6 {
   transition: all 300ms linear 0s;
 }
 .black_btn:hover {
-  background: #766dff;
+  background: red;
   color: #222222;
 }
 
@@ -3062,7 +3057,7 @@ h6 {
 }
 .wel_item i {
   font-size: 24px;
-  background: linear-gradient(to right, #766dff 0%, #86e7ff 70%);
+  background: linear-gradient(to right, red 0%, #86e7ff 70%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -3115,9 +3110,9 @@ h6 {
   border-radius: 5px;
   vertical-align: middle;
   align-self: center;
-  background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+  background-image: -moz-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -webkit-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -ms-linear-gradient(0deg, red 0%, red 100%);
 }
 
 /* End Welcome Area css
@@ -3125,9 +3120,9 @@ h6 {
 /* My Tabs Area css
 ============================================================================================ */
 .mytabs_area {
-  background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+  background-image: -moz-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -webkit-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -ms-linear-gradient(0deg, red 0%, red 100%);
 }
 
 .tabs_inner .nav.nav-tabs {
@@ -3149,7 +3144,7 @@ h6 {
   font-weight: 500;
   color: #fff;
   font-family: "Roboto", sans-serif;
-  border: 1px solid #9ab5f5;
+  border: 1px solid red;
   background: rgba(255, 255, 255, 0.1);
 }
 .tabs_inner .nav.nav-tabs li a.active {
@@ -3289,7 +3284,7 @@ h6 {
   background: #fff;
 }
 .feature_item:hover i:before {
-  background: linear-gradient(to right, #8490ff 0%, #62bdfc 70%);
+  background: linear-gradient(to right, #8490ff 0%, red 70%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -3354,7 +3349,7 @@ h6 {
   top: 50%;
   transform: translateY(-50%);
   font-size: 20px;
-  color: #766dff;
+  color: red;
 }
 .personal_text .basic_info li:last-child {
   margin-bottom: 0px;
@@ -3380,9 +3375,9 @@ h6 {
   font-size: 16px;
 }
 .personal_text .personal_social li:hover a {
-  background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+  background-image: -moz-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -webkit-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -ms-linear-gradient(0deg, red 0%, red 100%);
 }
 
 /* End Personal Profile Area css
@@ -3414,7 +3409,7 @@ h6 {
 }
 .isotope_fillter .gallery_filter li:hover a,
 .isotope_fillter .gallery_filter li.active a {
-  color: #766dff;
+  color: red;
 }
 
 .gallery_f_inner {
@@ -3437,9 +3432,9 @@ h6 {
   height: 100%;
   left: 0px;
   top: 0px;
-  background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+  background-image: -moz-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -webkit-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -ms-linear-gradient(0deg, red 0%, red 100%);
   position: absolute;
   opacity: 0;
   transition: all 300ms ease;
@@ -3472,7 +3467,7 @@ h6 {
   opacity: 1;
 }
 .h_gallery_item:hover .g_item_text h4:hover {
-  color: #766dff;
+  color: red;
 }
 
 .more_btn {
@@ -3573,7 +3568,7 @@ h6 {
   margin-bottom: 30px;
 }
 .ab_widget p a {
-  color: #766dff;
+  color: red;
 }
 .ab_widget p + p {
   margin-bottom: 0px;
@@ -3629,9 +3624,9 @@ h6 {
 }
 .news_widget .input-group .sub-btn {
   border-radius: 0px;
-  background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
-  background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+  background-image: -moz-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -webkit-linear-gradient(0deg, red 0%, red 100%);
+  background-image: -ms-linear-gradient(0deg, red 0%, red 100%);
   outline: none !important;
   box-shadow: none !important;
   padding: 0px;
@@ -3661,7 +3656,7 @@ h6 {
   margin-right: 0px;
 }
 .social_widget .list li:hover a {
-  color: #766dff;
+  color: red;
 }
 
 .copy_right_text {
@@ -3669,7 +3664,7 @@ h6 {
   margin-top: 60px;
 }
 .copy_right_text p a {
-  color: #766dff;
+  color: red;
 }
 
 /* End Footer Area css
